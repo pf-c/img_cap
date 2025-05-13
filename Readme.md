@@ -28,7 +28,7 @@ This repository contains a collection of tools for generating captions for image
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ImageCaptionGenerator.git
+   git clone https://github.com/pf-c/img_cap.git
    ```
 
 2. Navigate to the project directory:
