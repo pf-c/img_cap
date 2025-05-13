@@ -33,7 +33,7 @@ This repository contains a collection of tools for generating captions for image
 
 2. Navigate to the project directory:
    ```bash
-   cd ImageCaptionGenerator
+   cd img_cap
    ```
 
 3. Set up a virtual environment:
