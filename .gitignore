@@ -1,0 +1,11 @@
+.gradio/
+.venv/
+*.pyc
+*.pyo
+__pycache__/
+.idea/
+*.egg-info/
+*.egg/
+*.pkl
+captions.txt
+local_image_caption.txt
